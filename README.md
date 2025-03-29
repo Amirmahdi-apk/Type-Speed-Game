@@ -17,8 +17,8 @@ Type-Speed-Game is a simple typing speed test game built with HTML, CSS, and Jav
 To run this game locally, follow the steps below:
 
    1. Clone the repository or download the files.
-    ```bash
-   2. git clone https://github.com/Amirmahdi-apk/Type-Speed-Game.git
+    
+   2. git clone `https://github.com/Amirmahdi-apk/Type-Speed-Game.git`
 
    3. Open the index.html file in your web browser to start the game.
 
