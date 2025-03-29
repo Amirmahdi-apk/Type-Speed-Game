@@ -16,7 +16,7 @@ function randomMessage()
         , "reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in"
         ,"Duis aute irure dolor in"
         , " pariatur. Excepteur sint occaecat cupidatat"
-    originText = Math[floor(math.random()*messages.length)];
+    originText = messages[floor(math.random()*messages.length)];
     document.querySelector("#origin-text p").innerHTML = originText;
 ]
 }
