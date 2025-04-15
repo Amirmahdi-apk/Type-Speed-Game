@@ -77,4 +77,6 @@ function start() {
 window.addEventListener("load",randomMessage);
 testArea.addEventListener("keypress", start);
 testArea.addEventListener("keyup" , spellCheck);
+testArea.addEventListener("input" , start);
+testArea.addEventListener("input" , spellCheck);
 resetButton.addEventListener("click" , reset);
